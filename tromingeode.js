@@ -5,7 +5,6 @@ function createGame() {
   function characterClasses() {
     var chosenClass = prompt("Please select a class.");
     var Archeroid;
-    if(chosenClass = Archeroid) {
     function createClassOne() {
   alert("You have chosen:" + " " + "chosenClass");
   alert("Archeroids start with 5 main abilities. They are: Moonlight Meteor, Solar Sear, Scorched Ice, Xenon Blast, and Area Reborn.");
@@ -16,6 +15,7 @@ function createGame() {
   alert("Area Reborn: Spell type: Ultimate. Starting Power: 395 DPS. Maximum Time (current): 11 secs. Description: They gather anything powerful they could find in the Nine Platforms Of Life and Death.");
   alert("You will be given these starter abilities.");
   }
+    if(chosenClass = Archeroid) {
   createClassOne();
   }
  }
