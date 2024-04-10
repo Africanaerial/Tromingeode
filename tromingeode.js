@@ -3,7 +3,7 @@ function createGame() {
   var userName = prompt("Please select a name");
   alert("Welcome" + " " + userName + " " + "to Tromingeode.");
   function characterClasses() {
-    var chosenClass = prompt("Please select a class.");
+    var chosenClass = prompt("Please select a class. (Archeroid)");
     var Archeroid;
     function createClassOne() {
   alert("You have chosen:" + " " + "chosenClass");
