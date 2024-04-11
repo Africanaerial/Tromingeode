@@ -5,7 +5,7 @@ function Game() {
     if(confirmUsername = "yes") {
         alert("Your name has been saved to the game code.");
         }
-        else if(confirmUsername = "no") {
+        if(confirmUsername = "no") {
             while(confirmUsername = "no") {
                 username;
                 confirmUsername;
