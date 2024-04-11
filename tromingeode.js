@@ -11,7 +11,6 @@ function Game() {
                 confirmUsername;
                 if(confirmUsername = "yes") {
                     break;
-                    alert("Your name has been saved to the game code.");
                     }
             }
             }
