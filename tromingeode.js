@@ -8,6 +8,7 @@ function Game() {
         else if(confirmUsername = "no") {
             for(let i = 0; i < confirmUsername; i++) {
                 if(confirmUsername = "yes") {
+                    break;
                     alert("Your name has been saved to the game code.");
                     }
                 }
