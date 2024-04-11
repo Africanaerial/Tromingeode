@@ -14,7 +14,7 @@ function createGame() {
   alert("Xenon Blast: Spell type: Projectile. Starting Power: 192 DPS. Maximum Time (current): 3 secs. Description: This spell does not last that long, but its power makes up for it.");
   alert("Area Reborn: Spell type: Ultimate. Starting Power: 395 DPS. Maximum Time (current): 11 secs. Description: They gather anything powerful they could find in the Nine Platforms Of Life and Death.");
   alert("You will be given these starter abilities.");
-  }
+  };
  }
 characterClasses();
 }
