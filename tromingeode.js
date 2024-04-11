@@ -13,6 +13,7 @@ function createGame() {
       prompt("Select a class. Archeroid.");
   if(classchosen = "Archeroid") {
     alert("You have chosen" + " " + classchosen);
+    }
       }
     }
     chooseClass();
