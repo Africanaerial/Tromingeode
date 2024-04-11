@@ -4,7 +4,7 @@ function createGame() {
   alert("Welcome" + " " + userName + " " + "to Tromingeode.");
   function characterClasses() {
     var Archeroid;
-    var chosenClass = prompt("Please select a class. (Archeroid)")
+    var chosenClass = prompt("Please select a class. (Archeroid)");
     if(chosenClass = Archeroid) {
   alert("You have chosen:" + " " + "chosenClass");
 }
