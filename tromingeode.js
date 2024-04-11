@@ -8,6 +8,7 @@ function createGame() {
     if(chosenClass = Archeroid) {
   alert("You have chosen:" + " " + "chosenClass");
 }
+}
 characterClasses();
 }
 createGame();
