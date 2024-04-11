@@ -9,7 +9,7 @@ function createGame() {
     alert("You have chosen" + ":" + " " + classchosen);
     alert(classchosen + " " + "main abilities are Moonlight Meteor, Solar Sear, Scorched Ice, Xenon Blast, and Area Reborn.");
     }
-    if(classchosen != Archeroid) {
+    else if(classchosen != Archeroid) {
       prompt("Select a class. Archeroid.");
   if(classchosen = "Archeroid") {
     alert("You have chosen" + " " + classchosen);
