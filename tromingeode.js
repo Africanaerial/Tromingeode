@@ -7,7 +7,7 @@ function createGame() {
   var classchosen = prompt("Select a class. Archeroid.");
   if(classchosen = "Archeroid") {
     alert("You have chosen" + ":" + " " + classchosen);
-    alert("Archeroid's main abilities are Moonlight Meteor, Solar Sear, Scorched Ice, Xenon Blast, and Area Reborn.");
+    alert(classchosen + " " + "main abilities are Moonlight Meteor, Solar Sear, Scorched Ice, Xenon Blast, and Area Reborn.");
     }
     if(classchosen != Archeroid) {
       prompt("Select a class. Archeroid.");
