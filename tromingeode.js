@@ -6,6 +6,10 @@ function Game() {
         alert("Your name has been saved to the game code.");
         }
         else if(confirmUsername = "no") {
-            for(let i = 0; confirmUsername != "yes"; i++)
+            for(let i = 0; confirmUsername != "yes"; i++) {
+                if(confirmUsername = "yes") {
+                    alert("Your name has been saved to the game code.");
+                    }
+                }
             }
 }
