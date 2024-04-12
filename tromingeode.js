@@ -13,7 +13,7 @@ function Game() {
                     return userName;
                     const userName = userName;
                     }
-                    else() {
+                    if(confirmUsername != "yes" || "no") {
                         for(let i = 0; i < confirmUsername; i++) {
                             userName;
                             confirmUsername;
