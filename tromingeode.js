@@ -20,6 +20,7 @@ function Game() {
                             if(confirmUsername = "yes") {
                                 return userName;
                                 const userName = userName;
+                                }
                             }
                         }
             }
