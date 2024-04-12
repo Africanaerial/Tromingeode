@@ -9,7 +9,7 @@ function Game() {
             while(confirmUsername = "no") {
                 userName;
                 confirmUsername;
-                else if(confirmUsername = "yes") {
+                if(confirmUsername = "yes") {
                     return userName;
                     const userName = userName;
                     }
