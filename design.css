@@ -1,0 +1,278 @@
+body {
+background: linear-gradient(to right, blue, blue, purple, purple, blue, blue, purple, purple, blue, blue, purple, purple, blue, blue, purple, purple, blue, blue, purple, purple);
+}
+#background {
+/*
+  background: linear-gradient(to right, blue, purple, purple);
+*/
+  width: 1000px;
+  height: 1380px;
+    top: 96%;
+   left: 122.55%;
+  transform: translate(-50%, -50%);
+  border: 5px solid black;
+  position: absolute;
+  max-width: 1000%;
+  max-height: 1000%;
+  touch-action: manipulation;
+}
+#chooseworld {
+  background-color: green;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 185%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#choosebosslairs {
+  background-color: blue;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 215%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#planetarysystemchanger {
+  background-color: #FF69B4;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 155%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#biomeselecter {
+background-color: aquamarine;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 125%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#moreOptions {
+background-color: red;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 95%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#powerselecter {
+background-color: purple;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 65%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#areaspecial {
+background-color: lime;
+  width: 125px;
+  height: 125px;
+  top: 230%;
+  left: 35%;
+  position: absolute;
+  touch-action: manipulation;
+}
+#battlebuttonone {
+background-color: orange;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 215%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttontwo {
+background-color: orange;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 185%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttonthree {
+background-color: orange;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 155%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttonfour {
+background-color: orange;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 125%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttonfive {
+background-color: yellow;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 95%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttonsix {
+background-color: yellow;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 65%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttonseven {
+background-color: yellow;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 35%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#battlebuttoneight {
+background-color: yellow;
+  width: 125px;
+  height: 125px;
+  top: 210%;
+  left: 5%;
+  position: absolute;
+border: 5px solid black;
+touch-action: manipulation;
+}
+#merchant {
+background-color: brown;
+width: 125px;
+  height: 125px;
+top: 230%;
+  left: 5%;
+border: 5px solid lime;
+position: absolute;
+  touch-action: manipulation;
+}
+#dimensionalrift {
+background-color: indigo;
+  width: 125px;
+  height: 62.5px;
+  top: 192.5%;
+  left: 215%;
+  position: absolute;
+border: 5px solid orange;
+touch-action: manipulation;
+}
+#questboard {
+background-color: lightblue;
+  width: 125px;
+  height: 125px;
+  top: 192.5%;
+  left: 185%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+}
+#transcendentals {
+background-color: magenta;
+  width: 125px;
+  height: 125px;
+  top: 192.5%;
+  left: 155%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+}
+#interaction {
+background: linear-gradient(to right, purple, black, cyan, grey, cyan, black, purple);
+width: 125px;
+  height: 125px;
+  top: 192.5%;
+  left: 125%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+}
+#allies {
+background: linear-gradient(to right, grey, white, grey);
+width: 125px;
+  height: 125px;
+  top: 192.5%;
+  left: 95%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+font-size: 200%;
+
+}
+#eggcrafter {
+background: #590016;
+width: 125px;
+  height: 125px;
+  top: 192.5%;
+  left: 65%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+font-size: 200%;
+
+}
+#dragons {
+background: #6AFB92;
+width: 125px;
+  height: 62.5px;
+  top: 192.5%;
+  left: 35%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+font-size: 200%;
+
+}
+
+#fishingrod {
+background: cyan;
+width: 125px;
+  height: 62.5px;
+  top: 201%;
+  left: 35%;
+  position: absolute;
+border: 5px solid gold;
+touch-action: manipulation;
+font-size: 200%;
+
+}
+#character {
+  background: linear-gradient(to bottom, blue, black, green, gray, green, black, blue);
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  top: 750px;
+  left: 500px;
+  position: absolute;
+  border: 25px solid aqua;
+  touch-action: manipulation;
+}
+.dot {
+position: absolute;
+background-color: green;
+transform: translate(-50%, -50%);
+touch-action: manipulation;
+}
+
